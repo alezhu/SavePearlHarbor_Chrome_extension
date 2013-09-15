@@ -1,0 +1,14 @@
+﻿{
+	"name": {
+		"message": "SavePearlHarbor" 
+	},
+	"description": {
+		"message": "Иногда дает доступ к публикациям на Habrahabr.ru, которые авторы переместили в черновики" 
+	},
+	"autoRedirect": {
+		"message": "Автоматически перенапрявлять на сайт SavePearlHarbor вместо добавления ссылки на страницу" 
+	},
+	"locale": {
+		"message": "ru"
+	}
+}

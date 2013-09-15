@@ -1,0 +1,14 @@
+﻿{
+	"name": {
+		"message": "SavePearlHarbor" 
+	},
+	"description": {
+		"message": "Sometimes provides access to publications on Habrahabr.ru, which it's authors moved to drafts" 
+	},
+	"autoRedirect": {
+		"message": "Auto redirect to SavePearlHarbor site instead add link into Habrahabr page" 
+	},
+	"locale": {
+		"message": "en"
+	}
+}
